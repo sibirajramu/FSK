@@ -87,7 +87,8 @@ plt.show()
 ![FSK OP](https://github.com/user-attachments/assets/f388fa5d-a053-4795-8f09-39fb561f644b)
 
 # Hardware experiment output waveform.
-![Uploading FSK GRAPH.jpg…]()
+
+![FSK GRAPH](https://github.com/user-attachments/assets/47e30a12-b38c-4d95-aac0-8adb14fb1458)
 
 # Results
 The modulation and demodulation of FSK using python are verified
